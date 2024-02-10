@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NeyChat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NeyChat_jar</output-path>
+    <root id="archive" name="NeyChat.jar">
+      <element id="module-output" name="NeyChat" />
+    </root>
+  </artifact>
+</component>
